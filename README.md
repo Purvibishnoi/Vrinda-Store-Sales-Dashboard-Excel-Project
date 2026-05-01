@@ -1,58 +1,79 @@
-# Vrinda-Store-Sales-Dashboard-Excel-Project
-Excel-based Sales Dashboard project for Vrinda Store analyzing 2022 sales data to uncover insights on customer behavior, product performance, and channel-wise sales distribution. Includes data cleaning, pivot tables, charts, and interactive dashboards to support business decision-making.
+# Vrinda Store Sales Dashboard (Excel Project)
 
+## Project Overview
 
-🧾 Project Overview:
+This project analyzes Vrinda Store’s 2022 sales data to identify customer behavior, sales trends, product performance, and channel effectiveness. The objective is to convert raw data into meaningful insights through an interactive Excel dashboard to support business decision-making.
 
-This project analyzes Vrinda Store’s sales data to uncover insights related to customer behavior, sales trends, product performance, and channel effectiveness. The goal is to transform raw data into an interactive dashboard for better business decision-making.
+## Steps Performed
 
-Steps Performed:
--Data Cleaning 
--Data Processing
--Data Analysis 
--Data Visualization (Excel Dashboard)
+* Data Cleaning
+* Data Processing
+* Data Analysis using Pivot Tables
+* Data Visualization using Excel Dashboard
 
+## Project Files
 
-Dashboard Insights:
+| File                               | Description                               |
 
-👤 1. Age & Gender vs Orders Adult women (30–49 years) contributed the highest orders: 34.59% Senior men contributed the least: 5.91% 
+|    | Contains dataset, analysis, and dashboard |
+| Vrinda store problem statement.pdf | Defines business objective                |
+| Vrinda store sales dashboard.png   | Dashboard preview                         |
 
-👥 2. Gender Distribution Women: 64% of total sales Men: 36% of total sales 👉 Women are the dominant customer group
+## Analysis and Insights
 
-🛒 3. Sales by Channel Amazon contributed the highest sales: 35.5% Other key channels: Flipkart, Myntra 👉 Amazon is the top-performing platform
+### Age and Gender Distribution
 
-🗺️ 4. Top 10 States Maharashtra is the highest contributor: 2.99M sales Top contributing states: Maharashtra, Karnataka, Uttar Pradesh 👉 These 3 states contribute ~25% of total sales 
+Adult women (30–49 years) contributed the highest number of orders at 34.59%, while senior men contributed the least at 5.91%.
 
-📦 5. Order Status Analysis Delivered: 92% Returned: 3% Cancelled: 3% Refunded: 2% 👉 Most orders are successfully delivered
+### Gender Contribution
 
-📅 6. Sales vs Orders (Monthly Trend) Sales and orders peak in March Strong correlation between order volume and revenue
+Women account for 64% of total sales, while men contribute 36%, indicating that women are the primary customer segment.
 
+### Sales by Channel
 
+Amazon contributes the highest share of sales at 35.5%. Other significant channels include Flipkart and Myntra, which together form a major portion of total sales.
 
-🎛️ Dashboard Features Interactive slicers for:
+### Regional Performance
 
--Category -Month -Channel 
+Maharashtra is the top-performing state with sales of 2.99M. Karnataka and Uttar Pradesh are also key contributors. Together, these three states account for approximately 25% of total sales.
 
-All charts are connected for dynamic filtering
+### Order Status
 
+92% of orders are successfully delivered, while returns (3%), cancellations (3%), and refunds (2%) make up a small portion. This indicates strong operational efficiency.
 
+### Monthly Trends
 
+Sales and order volume peak in March. There is a strong positive relationship between the number of orders and revenue generated.
 
-📊 Key Insights Summary 
+## Dashboard Features
 
--Women customers contribute ~65% of total sales -Adult age group (30–49 years) is the highest buying segment (~50%)
+The dashboard provides interactive filtering using slicers for:
 
--Maharashtra, Karnataka, and Uttar Pradesh are top-performing states
+* Category
+* Month
+* Channel
 
--Amazon, Flipkart, and Myntra contribute ~80% of sales
+All charts are dynamically linked, enabling real-time analysis based on selected filters.
 
--Majority of orders (92%) are successfully delivered 
+## Key Insights Summary
 
+* Women contribute approximately 65% of total sales
+* The 30–49 age group is the highest revenue-generating segment
+* Maharashtra, Karnataka, and Uttar Pradesh are the top-performing states
+* Amazon, Flipkart, and Myntra contribute the majority of sales
+* Most orders (92%) are successfully delivered
 
-🎯 Final Recommendations To improve Vrinda Store’s sales performance:
+## Business Recommendations
 
--Target women aged 30–49 years 
+* Focus marketing efforts on women aged 30–49
+* Prioritize high-performing states such as Maharashtra, Karnataka, and Uttar Pradesh
+* Strengthen presence on leading e-commerce platforms like Amazon, Flipkart, and Myntra
+* Implement targeted campaigns during peak sales periods, especially in March
 
--Focus marketing in Maharashtra, Karnataka, and Uttar Pradesh 
+## How to Use
 
--Run promotions on Amazon, Flipkart, and Myntra -Use seasonal campaigns during peak months like March
+1. Download the Excel file
+2. Open "Vrinda Store Data Analysis.xlsx"
+3. Navigate to the Dashboard sheet
+4. Use slicers to explore and analyze the data interactively
+
