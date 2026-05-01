@@ -15,9 +15,9 @@ This project analyzes Vrinda Store’s 2022 sales data to identify customer beha
 
 | File                                             | Description                                                            |
 | ------------------------------------------------ | ---------------------------------------------------------------------- |
-| Vrinda Store Data Analysis.xlsx | Interactive Excel dashboard with complete analysis (download to view). |
-| Vrinda store problem statement.pdf  | Business problem definition and objectives.                            |
-|    | Preview of the final dashboard.                                        |
+| Vrinda Store Data Analysis.xlsx      | Interactive Excel dashboard with complete analysis (download to view). |
+| Vrinda store problem statement.pdf   | Business problem definition and objectives.                            |
+| Vrinda store sales dashboard.png     | Preview of the final dashboard.                                        |
 
 
 ## Analysis and Insights
